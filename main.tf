@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "demo" {
-  bucket = "aws-devops-2026-8pm"
+  bucket = "abhishek-terraform-demo-2026-001"
 }
